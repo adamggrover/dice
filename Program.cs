@@ -29,18 +29,18 @@ namespace dice
             for (int i = 0; i < iNumOfDice; i++){
 
                 
-            // instantiate Random class
-            Random random = new Random();
+                // instantiate Random class
+                Random random = new Random();
 
-            // generate a random number
-            int iDiceRoll = random.Next(1, 6);
+                // generate a random number
+                int iDiceRoll = random.Next(1, 6);
 
-            // print the number of console
-            Console.WriteLine("You have rolled:");
-            Console.WriteLine(iDiceRoll);
+                // print the number of console
+                Console.WriteLine("Dice Roll Number " + (i + 1) + ":");
+                Console.WriteLine(iDiceRoll);
             }
 
-            }
+        }
 
 
 
