@@ -1,3 +1,5 @@
+DICE GAME
+
 You will be creating a program that will allow the user to roll a series of dice for any number of reasons, the only function for the system is to allow the user to select dice and roll them a number of times as their desire.
 
 Task 1
