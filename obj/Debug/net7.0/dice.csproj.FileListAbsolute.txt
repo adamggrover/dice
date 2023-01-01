@@ -1,0 +1,15 @@
+/home/adam/weston/dice/bin/Debug/net7.0/dice
+/home/adam/weston/dice/bin/Debug/net7.0/dice.deps.json
+/home/adam/weston/dice/bin/Debug/net7.0/dice.runtimeconfig.json
+/home/adam/weston/dice/bin/Debug/net7.0/dice.dll
+/home/adam/weston/dice/bin/Debug/net7.0/dice.pdb
+/home/adam/weston/dice/obj/Debug/net7.0/dice.csproj.AssemblyReference.cache
+/home/adam/weston/dice/obj/Debug/net7.0/dice.GeneratedMSBuildEditorConfig.editorconfig
+/home/adam/weston/dice/obj/Debug/net7.0/dice.AssemblyInfoInputs.cache
+/home/adam/weston/dice/obj/Debug/net7.0/dice.AssemblyInfo.cs
+/home/adam/weston/dice/obj/Debug/net7.0/dice.csproj.CoreCompileInputs.cache
+/home/adam/weston/dice/obj/Debug/net7.0/dice.dll
+/home/adam/weston/dice/obj/Debug/net7.0/refint/dice.dll
+/home/adam/weston/dice/obj/Debug/net7.0/dice.pdb
+/home/adam/weston/dice/obj/Debug/net7.0/dice.genruntimeconfig.cache
+/home/adam/weston/dice/obj/Debug/net7.0/ref/dice.dll
